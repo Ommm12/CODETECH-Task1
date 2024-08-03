@@ -10,7 +10,7 @@
 **Contact:** +91 9640128015       
 
 # Overview of the Project
-# Title of Project: Password Strength Evaluator
+# Title of Project: Password Strength Checker
 # Problem Statement
 Design a tool to evaluate the strength of passwords entered by users. Implement algorithms to analyze factors such as length, complexity, and uniqueness to provide feedback on password strength.
 
